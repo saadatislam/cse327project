@@ -1,0 +1,11 @@
+.first-element{
+    margin-top: 100px;
+}
+
+table {
+    table-layout: fixed ;
+    width: 100% ;
+  }
+  td {
+    width: 25% ;
+  }
